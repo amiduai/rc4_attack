@@ -19,7 +19,7 @@
 ```sh
 示例：python RC4_attack.py -k password! -m 300
 ```
-+ run.py 多次重复攻击模拟,输出成功率以及成功率与报文量的折线图，使用方法：run.py [-h] [-t T]
++ run.py 多次重复攻击模拟,输出成功率以及成功率与报文量的折线图，使用方法：run.py [-h] [-t Times]
 ```sh
 python run.py -t 100
 ```
